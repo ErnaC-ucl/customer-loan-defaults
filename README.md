@@ -1,4 +1,7 @@
-# customer-loan-defaults
+# Predicting customer loan defaults using the "All Lending Club loan data"
+Author: Erna Ceka
+
+# Summary of the project
 In this repository I have built several classification models to predict whether a customer will default on their loan.
 
 This analysis is based on the  “All Lending Club loan data”. After the initial data pre-processing and feature
